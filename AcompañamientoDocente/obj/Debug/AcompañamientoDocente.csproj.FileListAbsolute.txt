@@ -1,0 +1,17 @@
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.dll.config
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.dll
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.pdb
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.csprojResolveAssemblyReference.cache
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.dll
+C:\Users\NESFTALI\documents\visual studio 2013\Projects\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.pdb
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.dll.config
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.dll
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.pdb
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.csprojResolveAssemblyReference.cache
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.dll
+C:\Users\Pablo Llanos\Desktop\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.pdb
+C:\Users\gabri_000\Desktop\proyecto\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.dll
+C:\Users\gabri_000\Desktop\proyecto\AcompañamientoDocente\AcompañamientoDocente\bin\AcompañamientoDocente.pdb
+C:\Users\gabri_000\Desktop\proyecto\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.csprojResolveAssemblyReference.cache
+C:\Users\gabri_000\Desktop\proyecto\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.dll
+C:\Users\gabri_000\Desktop\proyecto\AcompañamientoDocente\AcompañamientoDocente\obj\Debug\AcompañamientoDocente.pdb

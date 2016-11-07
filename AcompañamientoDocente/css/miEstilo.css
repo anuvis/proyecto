@@ -1,0 +1,11 @@
+﻿.tituloPopUpSpan {
+    font-size: 20px;
+    line-height: 40px;
+    padding-left: 10px; 
+}
+
+.eeControles { /* espacio entre Controles*/
+    margin-bottom: 10px;
+}
+
+/*si se quiere sobreescribir un css se le coloca !important (ej. padding-left: 10px !important;)*/
